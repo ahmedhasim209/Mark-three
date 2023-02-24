@@ -28,6 +28,22 @@ body {
     margin-top: 20px;
     margin-left: 20px;
 }
+.profile {
+    position: relative;
+}
+.shapes .one {
+    position: absolute;
+    width: 60px;
+    top: 25px;
+    right: 20px;
+}
+
+.shapes .two {
+    position: absolute;
+    bottom: 85px;
+    left: 25px;
+    width: 17%;
+}
 .profile .prof {
     display: flex;
     align-items: center;
